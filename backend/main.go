@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"com.mal.gotweet.backend/router"
+	"github.com/CodeSigma/learn-go/router"
 )
 
 func main() {
